@@ -1,8 +1,5 @@
 # PostgreSQL - Unicorn Companies
-The business/financial analysis of the projects is carried out in PostgreSQL.
-  > Case 1: Unicorn Companies (https://app.datacamp.com/workspace/w/74675338-e263-4ebd-a07f-0d9ef9a7fb09)
 
-## Case 1: Unicorn Companies 
 ### Workspace
 https://app.datacamp.com/workspace/w/74675338-e263-4ebd-a07f-0d9ef9a7fb09
 ### Background
